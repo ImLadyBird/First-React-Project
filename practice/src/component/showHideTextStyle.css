@@ -1,0 +1,21 @@
+.ShowHideTextCounter{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 30px;
+    align-items: center;
+}
+.ShowHideTextCounter button{
+     background-color: rgb(170, 170, 246);
+    border-radius: 45px;
+    padding: 10px 30px;
+    border: none;
+}
+.ShowHideTextCounter button:hover{
+    color: white;
+    padding: 12px 32px;
+}
+.ShowHideTextCounter p{
+    font-family: sans-serif;
+    color: rgb(71, 79, 234);
+}

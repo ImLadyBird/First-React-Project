@@ -1,0 +1,23 @@
+.LikeCounter {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 30px;
+    align-items: center;
+}
+.LikeCounter button{
+    background-color: white;
+    border-radius: 45px;
+    border: 2px solid rgb(224, 141, 141);
+    padding: 10px 30px;
+}
+.LikeCounter button:hover{
+    border: 2px solid rgb(99, 0, 0);
+    padding:  12px 32px;
+}
+.LikeCounter span{
+    font-family:  sans-serif;
+    color: rgb(71, 79, 234);
+    font-weight: 500;
+    font-size: 1.5rem
+}
