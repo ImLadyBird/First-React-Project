@@ -10,10 +10,10 @@ function App() {
 
   return (
     <>
-    <CounterButton />
+    {/* <CounterButton />
     <LikeButton />
     <ShowHideText />
-    <PasswordToggle/>
+    <PasswordToggle/> */}
     <ListMaker />
     </>
   )
